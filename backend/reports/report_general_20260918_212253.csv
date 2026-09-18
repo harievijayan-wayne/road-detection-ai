@@ -1,0 +1,9 @@
+ROAD CONDITION SURVEY ASSESSMENT REPORT
+Generated At,2026-09-18T21:22:53.402697
+Road Identifier,SH-17
+Road Health Index (RHI),78.5
+Overall Maintenance Priority,HIGH PRIORITY
+Total Defects Detected,1
+
+Damage Event ID,Class,Confidence,Severity Score,Severity Level,Priority,Latitude,Longitude,Track ID
+EVT-1,Pothole,0.92,84,Critical,URGENT,11.01,76.95,1
